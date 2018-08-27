@@ -1,0 +1,14 @@
+{
+  "name": "@theiconic/eventbus",
+  "version": "1.0.0",
+  "description": "THE ICONIC's event manager for JavaScript",
+  "main": "index.js",
+  "author": "THE ICONIC <engineering@theiconic.com.au>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
