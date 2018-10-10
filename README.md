@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/theiconic/event-bus.svg?branch=master)](https://travis-ci.org/theiconic/event-bus)
+
 # Event Bus
 
 
