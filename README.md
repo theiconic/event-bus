@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/theiconic/event-bus.svg?branch=master)](https://travis-ci.org/theiconic/event-bus)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a7872af6085afca4e71e/maintainability)](https://codeclimate.com/github/theiconic/event-bus/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/a7872af6085afca4e71e/test_coverage)](https://codeclimate.com/github/theiconic/event-bus/test_coverage)
 
 # Event Bus
 
